@@ -1,5 +1,7 @@
 "# ejercicio_entornos" 
-Realiza un programa en java  en el que realitzes  la gestión de una xicoteta tenda.
+
+
+Realitza un programa en java  en el que realitzes  la gestión de una xicoteta tenda.
 El programa constara en que tindrem 3 clases.
 La primera clase se dira tenda que tindra els atributs  stock y precio que seran de tipo int.
 Els metodos de la clase seran SolicitarNombreProducto(),solicitarProductos(),solicitarStockPro(),solicitarPrecioPro(),devolverNombre(),devolverPrecio(),devolverStock(),modificarStock(),quedaStock()
